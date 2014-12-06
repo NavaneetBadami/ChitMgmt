@@ -1,4 +1,0 @@
-ChitMgmt
-========
-
-ChitFund Management System
